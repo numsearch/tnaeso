@@ -1,4 +1,4 @@
-### Yo, I'm a coder from romania. I'm Currently Working On My Discord Selfbot & A Few Other Projects Of Mine. I know python and a few other languages.
+### Hi, I'm a coder from romania. I know python and a few other languages.
 
 <img width="80%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=tnaeso&data=followers,repositories,stars,commits&theme=darkmode">
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=tnaeso&show_icons=true&theme=radical">
