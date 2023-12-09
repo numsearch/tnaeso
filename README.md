@@ -1,1 +1,1 @@
-### Yo, I'm a coder from romania. I'm Currently Working On My Discord Selfbot & A Few Other Projects Of Mine.
+### Yo, I'm a coder from romania. I'm Currently Working On My Discord Selfbot & A Few Other Projects Of Mine. I know [python](https://cdn.discordapp.com/attachments/1160633092243980441/1183109171755896862/image.png) and a few other languages.
