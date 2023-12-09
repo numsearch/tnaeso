@@ -7,7 +7,7 @@
 <br clear="left">
 
 ### Discord:
-<img width="40%" src="(https://discord.c99.nl/widget/theme-1/1160611866935042108.png">
+<img width="40%" src="https://discord.c99.nl/widget/theme-1/1160611866935042108.png">
 
 <details>
   <p align="center">
