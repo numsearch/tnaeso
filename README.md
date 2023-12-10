@@ -1,5 +1,8 @@
-### Hi, I'm a programmer from romania. I know Python and a few other Languages
+# Hi, I'm a programmer from Romania. I know Python And A Few Other Languages.
 
-<img width="80%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=tnaeso&data=followers,repositories,stars,commits&theme=darkmode">
+![GitHub Stats](https://github-widgetbox.vercel.app/api/profile?username=tnaeso&data=followers,repositories,stars,commits&theme=darkmode)
 
-<br clear="left">
+### I'm a YouTuber and Programmer
+
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/tnaeso)
+[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg)](https://www.youtube.com/@tnaeso)
