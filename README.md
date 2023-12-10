@@ -5,8 +5,7 @@
 
 <br clear="left">
 
-### My Discord:
-<img width="40%" src="https://discord.c99.nl/widget/theme-1/1160611866935042108.png">
+```I Don't Have Many Projects So Far.```
 
 <details>
   <p align="center">
