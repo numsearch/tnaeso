@@ -5,11 +5,11 @@
 
 <br clear="left">
 
-```I Don't Have Many Projects So Far.```
+```I Don't Have Many Projects So Far. I will tho 😉.```
 
 <details>
   <p align="center">
-   <h5>I'm YouTuber and Programmer<h5>
+   <h5>I'm A YouTuber and Programmer<h5>
     </a>
   </p>
 </details>
