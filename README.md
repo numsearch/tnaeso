@@ -4,5 +4,5 @@
 
 ### I'm a YouTuber and Programmer.
 
-<a href="https://github.com/tnaeso"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="80"></a>
-<a href="https://www.youtube.com/@tnaeso"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="80"></a>
+<a href="https://github.com/tnaeso"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="110"></a>
+<a href="https://www.youtube.com/@tnaeso"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="110"></a>
